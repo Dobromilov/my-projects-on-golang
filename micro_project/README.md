@@ -93,4 +93,5 @@ taskmanager/
 
 Сейчас мой фокус — на качестве кода, а не только на функционале.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/dobro_milka)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+# tg: dobro_milka
